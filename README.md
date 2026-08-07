@@ -22,4 +22,4 @@ $Event.Properties.Value
 Write-Host " "
 }
 ```
-So, this is the objective of this project – a space to report on the syntax used to analyze .evtx log files, preceeded by an executive summary, and the IoCs that I’m trying to look for.
+So, this is the objective of this project – a space to report on the syntax used to analyze `.evtx` log files, preceeded by an executive summary, and the IoCs that I’m trying to look for.
